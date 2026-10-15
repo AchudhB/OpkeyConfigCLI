@@ -26,7 +26,7 @@ jobs:
           --project "jira_configops"
           --module devopstask
           --command createExportConfigurationTask
-          --task-name "ExportConfigurations_2026_10_15 10_44_11_056"
+          --task-name "Achudhtest"
           --agent-id "00000000-0000-0000-0000-000000000000"
           --requirement-id "00000000-0000-0000-0000-000000000000"
           --parent-id "00000000-0000-0000-0000-000000000000"
