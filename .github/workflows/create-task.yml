@@ -26,8 +26,8 @@ jobs:
           --project "jira_configops"
           --module devopstask
           --command createExportConfigurationTask
-          --task-name "ExportConfigurations_2026_10_15 10_10_00_408"
-          --agent-id "00000000-0000-0000-0000-000000000000"
+          --task-name "ExportConfigurations_2026_10_15 10_13_53_531"
+          --agent-id "6646ea01-c6b6-4bb3-871c-b13d74ab5ed6"
           --requirement-id "00000000-0000-0000-0000-000000000000"
           --parent-id "00000000-0000-0000-0000-000000000000"
           --environment-id "70377e32-bf33-4605-97ba-0b3bf6d984fe"
