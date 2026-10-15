@@ -26,12 +26,12 @@ jobs:
           --project "jira_configops"
           --module devopstask
           --command createExportConfigurationTask
-          --task-name "ExportConfigurations_2026_10_15 10_13_53_531"
-          --agent-id "6646ea01-c6b6-4bb3-871c-b13d74ab5ed6"
+          --task-name "ExportConfigurations_2026_10_15 10_19_04_731"
+          --agent-id "6e3fc876-1621-4334-a6e7-c4039f3ec4b5"
           --requirement-id "00000000-0000-0000-0000-000000000000"
           --parent-id "00000000-0000-0000-0000-000000000000"
           --environment-id "70377e32-bf33-4605-97ba-0b3bf6d984fe"
-          --module-name "Financials"
-          --sub-module "Payables"
-          --task-files "AP_MANAGE_PAYMENT_TERMS"
+          --module-name "Human Capital Management"
+          --sub-module "Core HR"
+          --task-files "XLE_MANAGE_LEGAL_ENTITY"
           --reporter-id "b886d8d6-a934-4a82-9d58-f24e4b468862"
